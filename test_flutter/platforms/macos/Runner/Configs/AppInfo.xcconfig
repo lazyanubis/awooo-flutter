@@ -8,7 +8,7 @@
 PRODUCT_NAME = test_flutter
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.testFlutter
+PRODUCT_BUNDLE_IDENTIFIER = com.example.test.testFlutter
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 com.example.test. All rights reserved.
